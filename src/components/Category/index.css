@@ -1,0 +1,23 @@
+.category-heading {
+  font-size: 24px;
+  font-weight: 700;
+  margin-top: 15px;
+  color: #0f172a;
+}
+.category-options {
+  margin-bottom: 9px;
+}
+.option-btn {
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  padding: 0px;
+  margin-left: 0px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #64748b;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
